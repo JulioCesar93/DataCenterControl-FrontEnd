@@ -125,12 +125,3 @@ O token é salvo em `localStorage` como `dcim_token` e enviado automaticamente c
 - **Notistack** (notificações)
 
 ---
-
-## 📌 Próximos Passos
-
-- [ ] Integrar autenticação real com Spring Boot + JWT
-- [ ] Substituir `mockData.js` pelas chamadas de API
-- [ ] Adicionar paginação server-side nas tabelas
-- [ ] Implementar filtros avançados
-- [ ] Tela de perfil e troca de senha
-- [ ] Exportação de relatórios (PDF/Excel)
